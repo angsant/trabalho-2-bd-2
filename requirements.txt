@@ -3,5 +3,3 @@ plotly
 pandas
 mysql.connector.python
 pymongo
-sqlalchemy
-psycopg2-binary
